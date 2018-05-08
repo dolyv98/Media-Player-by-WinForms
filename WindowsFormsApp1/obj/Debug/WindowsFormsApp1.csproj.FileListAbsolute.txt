@@ -37,9 +37,11 @@ E:\Đồ án1\Media-Player-by-WinForms-89076b4c0c0237fd3d6bae69a500b0d2c3175701\
 E:\Đồ án1\Media-Player-by-WinForms-89076b4c0c0237fd3d6bae69a500b0d2c3175701\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
 E:\Đồ án1\Media-Player-by-WinForms-89076b4c0c0237fd3d6bae69a500b0d2c3175701\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
 E:\Đồ án1\Media-Player-by-WinForms-89076b4c0c0237fd3d6bae69a500b0d2c3175701\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
-E:\Đồ án1\Media-Player-by-WinForms-89076b4c0c0237fd3d6bae69a500b0d2c3175701\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
 E:\Đồ án1\Media-Player-by-WinForms-89076b4c0c0237fd3d6bae69a500b0d2c3175701\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
 E:\Đồ án1\Media-Player-by-WinForms-89076b4c0c0237fd3d6bae69a500b0d2c3175701\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
 E:\Đồ án1\Media-Player-by-WinForms-89076b4c0c0237fd3d6bae69a500b0d2c3175701\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 E:\Đồ án1\Media-Player-by-WinForms-89076b4c0c0237fd3d6bae69a500b0d2c3175701\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 E:\Đồ án1\Media-Player-by-WinForms-89076b4c0c0237fd3d6bae69a500b0d2c3175701\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Đồ án1\Media-Player-by-WinForms-89076b4c0c0237fd3d6bae69a500b0d2c3175701\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.History.resources
+E:\Đồ án1\Media-Player-by-WinForms-89076b4c0c0237fd3d6bae69a500b0d2c3175701\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HiMP3.resources
+E:\Đồ án1\Media-Player-by-WinForms-89076b4c0c0237fd3d6bae69a500b0d2c3175701\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListeningHistory.resources
